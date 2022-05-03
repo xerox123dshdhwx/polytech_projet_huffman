@@ -6,6 +6,9 @@ int main() {
     FILE * fp = NULL;
     fp = fopen("../textesimple.txt","r+");
     int caractereActuel = 0;
+
+
+
     if(fp != NULL){
         do
         {
@@ -14,7 +17,7 @@ int main() {
         } while (caractereActuel != EOF);
         fclose(fp);
     }else{
-        printf("Impossible d'ouvrir le fichier grosse buffoonery");
+        printf("Impossible d'ouvrir le fichier");
     }
     return 0;
 }

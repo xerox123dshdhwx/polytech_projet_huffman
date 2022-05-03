@@ -5,5 +5,13 @@
 #ifndef FONCTION_H
 #define FONCTION_H
 
+typedef struct Dict{
+    char key;
+    int val;
+}Dict;
+
+
+
+
 
 #endif //FONCTION_H
