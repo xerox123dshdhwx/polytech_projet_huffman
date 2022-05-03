@@ -1,0 +1,7 @@
+# ninja log v5
+3	635	6732829242538137	build.ninja	6b859a7d71ca8800
+6	1134	6732798208306937	CMakeFiles/polytech_huffman.dir/source/fonction.c.obj	16227f663a92104b
+195	444	6732805702265846	polytech_huffman.exe	9716de401b26fa84
+1	193	6732805699865863	CMakeFiles/polytech_huffman.dir/main.c.obj	4a9ddbbc08685c98
+2	1350	6732858895788804	CMakeFiles/polytech_huffman.dir/main.c.obj	4a9ddbbc08685c98
+1352	1871	6732858900932251	polytech_huffman.exe	9716de401b26fa84

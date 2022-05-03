@@ -1,0 +1,4 @@
+ToolSet: 5.0 (local)@C:\MinGW
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=C:/Users/Etudi/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-1/221.5080.224/bin/ninja/win/ninja.exe
